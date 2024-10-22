@@ -1,5 +1,5 @@
 import { useGetDashboardMetricsQuery } from "@/state/api";
-import { TrendingUp } from "lucide-React";
+import { TrendingUp } from "lucide-react";
 import React, { useState } from "react";
 import {
     Bar,

@@ -1,6 +1,6 @@
 import { useGetDashboardMetricsQuery } from "@/state/api"
 import React from "react"
-import {ShoppingBag} from 'lucide-React'
+import {ShoppingBag} from 'lucide-react'
 import Rating from "@/app/(components)/Rating";
 
 const CardPopularProducts = () => {

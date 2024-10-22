@@ -1,4 +1,4 @@
-import {Star} from "lucide-React"
+import {Star} from "lucide-react"
 import React from 'react'
 
 type RatingProps = {

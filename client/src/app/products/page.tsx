@@ -2,8 +2,8 @@
 import { useCreateProductMutation, useGetProductsQuery } from '@/state/api';
 import React, { useState } from 'react'
 import CreateProductModal from './CreateProductModal';
-import Image from 'next/image';
-import { PlusCircleIcon, SearchIcon } from "lucide-React";
+// import Image from 'next/image';
+import { PlusCircleIcon, SearchIcon } from "lucide-react";
 import Rating from '@/app/(components)/Rating';
 import Header from "@/app/(components)/Header";
 
