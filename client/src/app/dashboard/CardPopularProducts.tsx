@@ -9,7 +9,7 @@ const CardPopularProducts = () => {
 
   return (
       <div
-      className="row-span-3 xl:row-span-6 bg-white rounded-2xl shadow-md pb-16"
+      className="row-span-3 xl:row-span-6 bg-white rounded-2xl shadow-md pb-16 max-h-[496px]"
       >
           {
               isLoading ? (
